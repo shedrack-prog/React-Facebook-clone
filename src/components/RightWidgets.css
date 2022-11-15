@@ -1,0 +1,16 @@
+.widget::-webkit-scrollbar {
+  display: none;
+}
+.widget:hover::-webkit-scrollbar {
+  display: none;
+}
+.widget::-webkit-scrollbar-track {
+  display: none;
+}
+
+.widget::-webkit-scrollbar-thumb {
+  display: none;
+}
+.widget::-webkit-scrollbar-thumb:hover {
+  display: none;
+}

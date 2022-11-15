@@ -1,0 +1,49 @@
+.sidebar::-webkit-scrollbar {
+  opacity: 0;
+  width: 10px;
+  height: 5px;
+}
+.sidebar:hover::-webkit-scrollbar {
+  opacity: 1;
+  width: 10px;
+  height: 5px;
+}
+.sidebar::-webkit-scrollbar-track {
+  border-radius: 100vh;
+  background-color: transparent;
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+  background: #a9a9a9;
+  border-radius: 100vh;
+  border: 3px solid #f6f7ed;
+}
+.sidebar::-webkit-scrollbar-thumb:hover {
+  background: gray;
+}
+
+/* feed scroll bar */
+
+.Feed::-webkit-scrollbar {
+  opacity: 0;
+  width: 10px;
+  height: 5px;
+}
+.Feed:hover::-webkit-scrollbar {
+  opacity: 1;
+  width: 10px;
+  height: 5px;
+}
+.Feed::-webkit-scrollbar-track {
+  border-radius: 100vh;
+  background-color: transparent;
+}
+
+.Feed::-webkit-scrollbar-thumb {
+  background: #a9a9a9;
+  border-radius: 100vh;
+  border: 3px solid #f6f7ed;
+}
+.Feed::-webkit-scrollbar-thumb:hover {
+  background: gray;
+}

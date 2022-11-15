@@ -1,0 +1,16 @@
+.story__card::-webkit-scrollbar {
+  display: none;
+}
+.story__card:hover::-webkit-scrollbar {
+  display: none;
+}
+.story__card::-webkit-scrollbar-track {
+  display: none;
+}
+
+.story__card::-webkit-scrollbar-thumb {
+  display: none;
+}
+.story__card::-webkit-scrollbar-thumb:hover {
+  display: none;
+}
